@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+![项目演示](todo.gif)
+
 ## Build Setup
 
 ``` bash
